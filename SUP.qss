@@ -201,7 +201,7 @@ QTextEdit#InfoFrame {
 
 QTextEdit#ChatTab {
 	border: none;
-	background-image: url('styles:SUP/ChatLogo.png');
+	background: transparent;
 		background-position: bottom right;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
